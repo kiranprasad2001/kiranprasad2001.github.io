@@ -4,11 +4,11 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Shower Thoughts"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Stories | Novels | Opinions
 
-email: a-mail@mail.mail
+email: kp@spotrot.com
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 float_logo: true # true, false (default)
@@ -16,16 +16,16 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Kiran Prasad'
+author: 'Kiran Prasad'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://skiranprasad2001.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@kiranprasad2001'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -35,7 +35,7 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
+    url:	https://twitter.com/kiranprasad2001
     desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
@@ -49,7 +49,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/kiranprasad2001
     desc:	Fork me on github
     share_url:
     share_title:
