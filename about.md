@@ -4,14 +4,10 @@ title: About
 permalink: /about/
 ---
 
-A medium inspired Jekyll blog theme. The basic idea came from the Ghost theme 
-[Readium 2.0](http://www.svenread.com/readium-ghost-theme/). I use mediator on my own blog [The Base](blog.base68.com).
+Hi! I'm Kiran, a software developer with a passion for storytelling. I love creating worlds and characters and getting lost in the magic of writing. When I'm not coding away, you can usually find me with my nose in a book, trying to decipher the secrets of the universe (or just figuring out how to write a really good fight scene).
 
-You can **download** the theme here:
-[https://github.com/dirkfabisch/mediator](https://github.com/dirkfabisch/mediator) 
+I'm also a big fan of learning new things.  Whether it's picking up a new programming language or attempting to juggle (with varying degrees of success), I'm always up for a challenge. And speaking of challenges, I enjoy a good game of badminton, though I'm probably more enthusiastic than skilled.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+If you're interested in chatting about books, writing, or anything else that strikes your fancy, feel free to get in touch!
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+This website is using Jekyll blog theme which you can get it from here: [dirkfabisch/mediator](https://github.com/dirkfabisch/mediator)
