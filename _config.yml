@@ -19,7 +19,7 @@ author: Kiran Prasad
 description: >- # this means to ignore newlines until "baseurl:"
   Shower Thoughts.
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
-url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kiranprasad2001.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
 twitter_username: kiranprasad2001
 github_username:  kiranprasad2001
