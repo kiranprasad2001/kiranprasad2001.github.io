@@ -10,7 +10,7 @@ description: > # this means to ignore newlines until "email:"
 
 email: kp@spotrot.com
 #blog logo
-logo: "/assets/images/df_logo.jpg"
+logo: "/assets/images/splogo.png"
 float_logo: true # true, false (default)
 
 # blog cover
@@ -18,7 +18,7 @@ cover: "/assets/images/header.jpg"
 
 name: 'Kiran Prasad'
 author: 'Kiran Prasad'
-author_image: "/assets/images/author.jpg"
+author_image: "/assets/images/author.png"
 
 paginate:	5
 
@@ -41,7 +41,7 @@ social:
     share_title: ?text=
     share_link: "&amp;url="
 
-#  - icon:	facebook
+#  - icon: facebook
 #    url:	https://facebook.com/???
 #    desc: Connect with me facebook
 #    share_url: https://www.facebook.com/sharer.php
@@ -54,6 +54,20 @@ social:
     share_url:
     share_title:
     share_link:
+
+  - icon: readme  # New entry for Substack
+    url:  https://kiranprasad2001.substack.com 
+    desc: Subscribe to my Substack
+    share_url:  # You might need to find Substack's share URL if they have one
+    share_title:  
+    share_link: 
+
+  - icon: medium  # New entry for Medium
+    url:  https://medium.com/@kiranprasad2001
+    desc: Read my stories on Medium
+    share_url: https://medium.com/m/global-share?url=  # Medium's share URL
+    share_title: 
+    share_link: 
 
 #  - icon:	google-plus
 #    url:	https://google.com/???
