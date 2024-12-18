@@ -4,22 +4,20 @@
   {% include head.html %}
 
   <body>
-
-    {% include header.html %}
-
-    <!-- content start -->
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+    <div id="collapsible-menu" class="side-menu">
+        <ul>
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <!-- ... your menu items ... -->
+        </ul>
     </div>
+    {% include header.html %}
+    <div class="page-content">
+     <div class="wrapper">
+       {{ content }}
+     </div>
+   </div>
 
-    <!-- content end -->
-
-    {% include footer.html %}
-    {% include javascripts.html %}
-
-  </body>
+</body>
 
 </html>
