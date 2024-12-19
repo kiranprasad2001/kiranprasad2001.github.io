@@ -2,8 +2,8 @@
 layout: post
 title:  "Chapter 3: The Healer's Touch"
 date:   2024-12-16 14:34:25
-categories: [Novel]
-tags: [Book-1 Anya The Warrior]
+categories: Anya-The Warrior
+tags: featured
 image: /assets/article_images/2024-12-16-chapter3-the-healers-touch/night-track.JPG
 image2: /assets/article_images/2024-12-16-chapter3-the-healers-touch/night-track-mobile.JPG
 ---
